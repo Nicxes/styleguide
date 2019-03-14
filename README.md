@@ -205,10 +205,11 @@ Use `0` instead of `none` to specify that a style has no border.
 ```
 **[⬆ back to top](#table-of-contents)**
 
-## Sass
+## Sass / LESS
 
 ### Syntax
 
+* I highly recommend to use `.less`, because I love the JS community.
 * Use the `.scss` syntax, never the original `.sass` syntax
 * Order your regular CSS and `@include` declarations logically (see below)
 
